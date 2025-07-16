@@ -1,5 +1,5 @@
 # AI-POWERED-JOB-RECOMMENDATION-SYSTEM-
-AI POWERED JOB AND RESUME RECOMMENDATION SYSTEM
+AI POWERED JOB  RECOMMENDATION SYSTEM
 
 DESCRIPTION
 This is an intelligent system that recommends jobs based on uploaded resumes using both rule-based and machine learning techniques. It parses PDF/DOCX resumes, extracts skills, matches them with job listings, performs skill gap analysis, and predicts job roles using trained ML models like Random Forest, SVM, Logistic Regression, and Naive Bayes.
